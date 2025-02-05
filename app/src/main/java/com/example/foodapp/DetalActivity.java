@@ -27,7 +27,7 @@ public class DetalActivity extends AppCompatActivity {
         int narxi = getIntent().getIntExtra("foodNarxi", 0);
         String haqida = getIntent().getStringExtra("foodHaqida");
         String rasmi = getIntent().getStringExtra("foodRasmi");
-
+        String rasm = getIntent().getStringExtra("foodRasmi");
 
         foodName.setText(name);
         foodNarxi.setText(String.format("%d so'm", narxi));
