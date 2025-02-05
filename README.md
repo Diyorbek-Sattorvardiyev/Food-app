@@ -1,20 +1,5 @@
-![image](https://github.com/user-attachments/assets/8cc00df1-1a01-4e97-a805-274e282ddc2f)
-![image](https://github.com/user-attachments/assets/8d9df89e-1cd2-4847-9d8f-544503cdaa56)
-![image](https://github.com/user-attachments/assets/acdde784-0b43-45bc-862e-fac835ae5b8f)
-![image](https://github.com/user-attachments/assets/0e8e3187-1400-4688-9d14-e51e12cf918d)
-![image](https://github.com/user-attachments/assets/378bcd79-3a95-43a5-8d8f-5ad9ce73d96e)
-![image](https://github.com/user-attachments/assets/3f8edf95-9535-4d66-ba30-b4acb6e02a62)
-![image](https://github.com/user-attachments/assets/e2c4d8d3-1e7e-4512-809f-f43751e2d383)
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/7d40bdb8-420d-4271-b4b7-1f09f0710203)
+![image](https://github.com/user-attachments/assets/1c5af671-c03b-4e9c-b6a5-859a6f4e85c2)
 
 
 # Food App
